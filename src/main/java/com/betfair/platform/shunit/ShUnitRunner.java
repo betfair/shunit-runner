@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.betfair.services.commons.testutil.shunit;
+package com.betfair.platform.shunit;
 
 import org.junit.runner.Runner;
 import org.junit.runner.Description;

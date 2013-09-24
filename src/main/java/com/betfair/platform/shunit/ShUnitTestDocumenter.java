@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.betfair.services.commons.testutil.shunit;
+package com.betfair.platform.shunit;
 
 import java.io.File;
 import java.io.FileReader;

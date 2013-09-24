@@ -14,8 +14,9 @@
  * limitations under the License.
  */
 
-package com.betfair.services.commons.testutil.shunit;
+package com.betfair.platform.shunit;
 
+import com.betfair.platform.shunit.ShUnitRunner;
 import org.junit.runner.notification.RunNotifier;
 import org.junit.runner.notification.Failure;
 import org.junit.runner.Description;
