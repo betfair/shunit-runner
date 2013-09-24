@@ -1,0 +1,7 @@
+testSomething
+ASSERT:Some text expected:<string1> but was:<string2>
+ASSERT:Some text expected:<string3> but was:<string4>
+
+Ran 1 tests.
+
+FAILED (failures=1)

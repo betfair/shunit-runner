@@ -1,0 +1,9 @@
+testHelpPage
+testTestModeOutput
+testSimpleOk
+testSimpleWarn
+testSimpleFail
+
+Ran 5 tests.
+
+OK

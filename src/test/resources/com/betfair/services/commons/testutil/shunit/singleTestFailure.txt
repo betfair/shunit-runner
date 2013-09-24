@@ -1,0 +1,6 @@
+testSomething
+ASSERT:Some text expected:<string1> but was:<string2>
+
+Ran 1 tests.
+
+FAILED (failures=1)

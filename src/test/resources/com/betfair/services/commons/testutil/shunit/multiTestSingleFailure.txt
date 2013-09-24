@@ -1,0 +1,10 @@
+testHelpPage
+testTestModeOutput
+ASSERT:Script should print warning when in test mode expected:<Warning: Running in test moe> but was:<Warning: Running in test mode>
+testSimpleOk
+testSimpleWarn
+testSimpleFail
+
+Ran 5 tests.
+
+FAILED (failures=1)
