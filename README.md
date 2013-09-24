@@ -1,7 +1,7 @@
 shunit-runner
 =============
 
-Junit runner to wrap shunit tests
+Junit runner to wrap shunit tests - handy for when you want all your test outputs merged together in a single report.
 
 Licensing
 ---------
