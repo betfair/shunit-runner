@@ -1,7 +1,9 @@
 shunit-runner
 =============
 
-Junit runner to wrap shunit tests - handy for when you want all your test outputs merged together in a single report.
+Junit runner to wrap [shunit2](http://code.google.com/p/shunit2/) tests - handy for when you want all your test outputs merged together in a single report.
+
+[![Build Status](https://travis-ci.org/betfair/shunit-runner.png?branch=master)](https://travis-ci.org/betfair/shunit-runner)
 
 Licensing
 ---------
